@@ -1,7 +1,7 @@
 title: About SCS
 ---
 # CMU : School of Computer Science
-![Carnegie Mellon School of Computer Science Main entrance](https://scs-shadow.com/dist/scs-main-image.png)
+![Carnegie Mellon School of Computer Science Main entrance](https://storage.googleapis.com/scs-static/pages/scs-main-image.png)
 
 ## Location
 
