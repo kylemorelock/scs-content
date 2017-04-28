@@ -1,2 +1,2 @@
-# scs-content
-CMU:SCS Static content
+# CMU:SCS Static Content
+Management of cs-dev.cmu.edu static markdown pages.

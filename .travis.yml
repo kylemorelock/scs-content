@@ -1,0 +1,14 @@
+language: node_js
+node_js:
+- '7'
+branches:
+  only:
+  - master
+deploy:
+  provider: gcs
+  access_key_id: GOOGVPM4F7E5PPK7J3YU
+  secret_access_key:
+    secure: nf6lRPLugfOmRw6jMYeZXlL4Nfelqf73K82eH0zKuCKXGhzlDH/vkArBYvuPQJm0DuuYsVUpwHh1wUBidPbJNsaNDVUE4G8aQmtUtaFbtrwe9HXSFFFekxa+9cacqmJv2VCexxrt0xSqf36tdGRvNa1GjfCHeIGt3cf6peFCcFa11FN8mJbLcfOwifdtZ6G3lpqD3FcOZqoo9agz5KM6eaI9i0O4eW4OoLdTOyYPgAAHdlqgL8CBauX7WFEXSPkeZXCsi+Kx5YPRpBNK3khz+XuYrK1QMtw6J17/leawlK/sbKBUheF/EWUNAAdgHokpE+Cwp9xoIACMehSfml8dkny+7ISOnnWC0muRLrbB0rO9cL3sBAEqiK6AOSL2C6DIavwELETftNUvrYDJKNOSJyYttcWS7auoe4lUmGWYn5JcRqNTLFlQgpyCjPkGEgw1PD6PkO2N0sIe8TUeUCp2GLJvDaWluHKRlrCcVqr/pQSj0KaaCEYI6e1hozLuzDbYxxLZORE3YGWnvZEs3pJwDL2DjM2xOYS01h6NG53eR+rD/zc9EnlxJQCU9QHIWCcFUK8pghZWZv2fP6ios8EIQjkYver7dZ+Aok09ntmNX0wgPURNat/pmDlRLFsr9FtfAd/dmjDjU547Uadx8Tg6fHZqAZO31LklYv3wvuUnOv8=
+  bucket: scs-content
+  on:
+    repo: SchoolofComputerScience/scs-content
