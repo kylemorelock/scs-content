@@ -22,6 +22,7 @@ Our mission is to develop, coordinate, and facilitate mutually beneficial partne
 
 [George Darakos](directory/george_darakos), Director
 [Dan Jenkins](directory/daniel_jenkins), Senior Associate Director
+[Chris Kissell](directory/christopher_kissell), Assistant Director
 
 Email: [corporate@cs.cmu.edu](mailto:corporate@cs.cmu.edu)
 
