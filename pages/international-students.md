@@ -1,3 +1,7 @@
+title: Internation Students
+---
+# For International Students
+
 With some of the world's best programs in computer science and robotics, the Carnegie Mellon School of Computer Science attracts students from many nations. More than 40 percent of our students are natives of countries other than the United States. We pride ourself on creating—together with our students—[a welcoming and supportive environment](http://www.studentaffairs.cmu.edu/oie/forstu/index.html) for their different cultures, languages and traditions. Carnegie Mellon University and SCS offer [a variety of resources](http://www.studentaffairs.cmu.edu/oie/forscho/index.html) to help students interested in earning a degree at our Pittsburgh campus.
 
 ## Undergraduate Students
