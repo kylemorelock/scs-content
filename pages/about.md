@@ -103,3 +103,5 @@ The Robotics Institute often hosts an open house during the university’s annua
 Please note, most of our robots are located within laboratories and are not readily accessible to the public. But Tank_,_ the Roboceptionist (an interactive social robot) operates on most weekdays at the third-floor entrance to Newell-Simon Hall. HERB, the home exploring robot butler, is a two-armed, mobile robot that can be viewed through the glass walls of the Personal Robotics Lab on the fourth floor of Newell-Simon Hall. Both robots invite you to visit.
 
 Thank you for your interest in all our programs. If you have additional questions related to tours please [contact us](mailto:scs-tours@cs.cmu.edu).
+
+---
