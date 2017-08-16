@@ -1,4 +1,4 @@
-title: Internation Students
+title: International Students
 ---
 # For International Students
 
