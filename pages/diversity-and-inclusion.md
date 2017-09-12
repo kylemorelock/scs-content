@@ -13,7 +13,7 @@ The [Women@SCS](https://www.women.cs.cmu.edu/) mission is to create, encourage, 
 
 ### BiasBusters@CMU
 
-[BiasBuster@CMU](https://scs4all.cs.cmu.edu/biasbusters/) is modeled on Google’s Bias Busting@ Work program, and developed in concert with Google. The program was piloted in the School of Computer Science (BiasBusters@SCS,CMU) to engage over issues of bias, diversity, and inclusion. BiasBusters sessions are led by members of the CMU community who have volunteered to be trained as program facilitators. BiasBusters@CMU now reaches communities across the Carnegie Mellon campus.
+[BiasBusters@CMU](https://scs4all.cs.cmu.edu/biasbusters/) is modeled on Google’s Bias Busting@ Work program, and developed in concert with Google. The program was piloted in the School of Computer Science (BiasBusters@SCS,CMU) to engage over issues of bias, diversity, and inclusion. BiasBusters sessions are led by members of the CMU community who have volunteered to be trained as program facilitators. BiasBusters@CMU now reaches communities across the Carnegie Mellon campus.
 
 Several things distinguish BiasBusters@CMU from similar programs. First is the framing: the program has an academic tone, focusing on summaries of research evidence into which discussions of experience are woven. Second, the role-playing, based on relevant and real life scenarios, has proved to be a powerful and effective approach for engaging participants, both at Google and at CMU, creating commitments to greater inclusion.
 
