@@ -1,6 +1,6 @@
 title: Corporate
 ---
-# SCS Partnerships
+# Partnerships
 
 ## Our mission is to develop, coordinate, and facilitate mutually beneficial partnerships with industry, government, and institutional partners that enhance Carnegie Mellon's education and research.
 
