@@ -6,20 +6,6 @@ title: Corporate
 
 ***
 
-### Let us help you engage with Carnegie Mellon's School of Computer Science, and beyond:
-
-* Research Development
-
-* Sponsored Research
-
-* Some Other Solutions
-
-* Philanthropy
-
-* Professional Education
-
-***
-
 ## Partner Contact
 
 [George Darakos](directory/george_darakos), Director
@@ -31,6 +17,20 @@ title: Corporate
 Email: [corporate@cs.cmu.edu](mailto:corporate@cs.cmu.edu)
 
 Central office phone: (412) 268-3805
+
+***
+
+### Let us help you engage with Carnegie Mellon's School of Computer Science, and beyond:
+
+* Research Development
+
+* Sponsored Research
+
+* Some Other Solutions
+
+* Philanthropy
+
+* Professional Education
 
 ***
 
