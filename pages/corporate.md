@@ -6,7 +6,7 @@ title: Corporate
 
 ***
 
-## Partner Contact
+## Contact Partnerships
 
 [George Darakos](directory/george_darakos), Director
 
