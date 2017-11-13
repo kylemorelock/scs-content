@@ -22,20 +22,20 @@ Central office phone: (412) 268-3805
 
 ### Let us help you engage with Carnegie Mellon's School of Computer Science, and beyond:
 
-* Research Development
+ * Research Development
 
-* Sponsored Research
+ * Sponsored Research
 
-* Some Other Solutions
+ * Some Other Solutions
 
-* Philanthropy
+ * Philanthropy
 
-* Professional Education
+ * Professional Education
 
 ***
 
 Corporate and Institutional Partnerships works with almost every other unit on campus. Here are some links to other partners on campus you may be interested in.
 
-* [CMU Corporate & Institutional Partnerships](https://www.cmu.edu/corporate/)
-* [Career & Professional Development Center (CPDC)](https://www.cmu.edu/career/)
-* [Center for Technology Transfer and Enterprise Creation (CTTEC)](http://www.cmu.edu/cttec/)
+ * [CMU Corporate & Institutional Partnerships](https://www.cmu.edu/corporate/)
+ * [Career & Professional Development Center (CPDC)](https://www.cmu.edu/career/)
+ * [Center for Technology Transfer and Enterprise Creation (CTTEC)](http://www.cmu.edu/cttec/)

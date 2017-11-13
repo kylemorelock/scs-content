@@ -35,7 +35,7 @@ The Mark Stehlik SCS Alumni Undergraduate Impact Scholarship recognizes and supp
 
 The world needs more computer scientists, and we’re doing our part to meet the demand. We’re working hard to make sure every child in America has the opportunity to study computer science, regardless of their school district. We hope some will come to CMU, but we’re more worried about opening doors for them no matter where they go to college. Gifts to the Outreach Fund empower our efforts to inspire and support kids everywhere.
 
-* * *
+***
 
 # More ways to get involved
 
