@@ -3,54 +3,40 @@ title: Donate to SCS
 
 # Current Funds
 
+## When you support SCS, you support the innovators and makers who will turn our wildest dreams into reality — who will fundamentally change how we interact with the world.
+
 _A portion of your gift to Carnegie Mellon is allocated to our Administrative Fee._
 
-### The CSD50 Graduate Fellowship Endowment Fund
+***
 
-All SCS Ph.D. students should have the chance to create the Next Big Thing, to engage openly in intellectual inquiry without worrying about losing their funding. We want them to freely explore. We want them to change the world.
+## Contact Development
 
-SCS created the CSD50 Graduate Fellowship Endowment Fund to guarantee that each Ph.D. student has the support to fuel their research and exploration while at CMU. Contributions to the fund will help us attract, retain and support the best computer scientists in the world as they create the future.
+[Jenny Belardi, Director](directory/jennifer_belardi)
 
-When you give to the CSD50 Graduate Fellowship Endowment Fund, you not only support the future of computer science, but you can recognize the contributions of individuals with deep SCS roots. We've specifically highlighted four individuals you can honor with your gift: Sharon Burks, A. Nico Habermann, [Raj Reddy](/directory/raj_reddy) and Joe Traub. You can make your gift by clicking below and specifying one of these SCS legends in the "Comments" box on the next page.
+[Katie Coan, Associate Director](/directory/katherine_coan)
 
-[Choose This Fund](https://securelb.imodules.com/s/1410/giving/form.aspx?sid=1410&gid=1&pgid=382&cid=990&appealcode=A3875&dids=377)
+[Brian Peck, Associate Director & Major Gift Officer](/directory/brian_peck)
 
-### SCS Fund
+[Julie Banks, Development Associate](/directory/julie_banks)
 
-Many SCS donations come with limitations: they can only be used for specific purposes or within specific departments or for specific types of students. The SCS Fund is just that — a fund that can be used for nearly any need that arises in the School of Computer Science. The SCS Fund provides the flexibility to ensure the school's day-to-day needs are met and that everyone has the tools they need to be successful in the classroom and in their research efforts.
+***
 
-[Choose This Fund](https://securelb.imodules.com/s/1410/giving/form.aspx?sid=1410&gid=1&pgid=382&cid=990&appealcode=A3875&dids=121)
+### Dean's Innovation Fund <input style="display: inline-block;-webkit-appearance: none;text-transform: uppercase;border: 1px solid $red;background: white;box-shadow: $box-shadow-inert;color: $red;font-weight: 900;padding: $base-line-height / 2;font-family: $font;border-radius: 2px;margin-right: $base-line-height / 4;cursor: pointer;top: 0;left: 0;transition: .2s;&:focus {outline: 0;}&:hover{cursor: pointer;box-shadow: $box-shadow-hover;position: relative;top: -.1em;left: -.1em;}" type="button" value="Choose this fund" onclick="https://securelb.imodules.com/s/1410/giving/form-social.aspx?sid=1410&gid=1&pgid=382&cid=990&appealcode=A3875&dids=82">
 
-### The Mark Stehlik SCS Alumni Undergraduate Impact Scholarship
+To help fund the dean's strategic research initiatives, you can donate to the Dean’s Innovation Fund — a general fund used at the dean’s discretion to support the early stages of the truly life-changing research we work on every day and that will have far-reaching implications for society.
 
-The [Mark Stehlik SCS](/directory/mark_stehlik) Alumni Undergraduate Impact Scholarship recognizes and supports SCS undergraduates whose reach for excellence extends beyond the classroom — who are working to make a difference both in the field of computer science and the world around them. The award, created by the SCS Alumni Advisory Board, encourages SCS undergraduates to increase their engagement in research and community service, and to reach beyond their courses and grades. It shows the best and brightest SCS students that the community supports their tireless efforts to excel in all they do. And it’s appropriately named for former Assistant Dean for Undergraduate Education , who was a tireless force for encouraging a generation of students to shine in computer science, extracurricular activities and life.
+### Stehlik Fund  <input style="display: inline-block;-webkit-appearance: none;text-transform: uppercase;border: 1px solid $red;background: white;box-shadow: $box-shadow-inert;color: $red;font-weight: 900;padding: $base-line-height / 2;font-family: $font;border-radius: 2px;margin-right: $base-line-height / 4;cursor: pointer;top: 0;left: 0;transition: .2s;&:focus {outline: 0;}&:hover{cursor: pointer;box-shadow: $box-shadow-hover;position: relative;top: -.1em;left: -.1em;}" type="button" value="Choose this fund" onclick="https://securelb.imodules.com/s/1410/giving/form.aspx?sid=1410&gid=1&pgid=382&cid=990&appealcode=A3875&dids=171">
 
-To date, the fund has raised gifts and commitments totaling roughly $70,000.
 
-Gillian Rosen (CS 2016) received the inaugural [Mark Stehlik SCS](/directory/mark_stehlik) SCS Alumni Impact Scholarship in the spring of 2016. Rosen embodies the spirit of the scholarship, which honors students who excel both in and out of the classroom. During her time at Carnegie Mellon, Rosen has performed undergraduate research with Robotics Professor [Howie Choset](/directory/howard_choset), and has participated in countless activities on campus, including driving for buggy.
 
-[Choose This Fund](https://securelb.imodules.com/s/1410/giving/form.aspx?sid=1410&gid=1&pgid=382&cid=990&appealcode=A3875&dids=171)
+The Mark Stehlik SCS Alumni Undergraduate Impact Scholarship recognizes and supports SCS undergraduates whose reach for excellence extends beyond the classroom — who are working to make a difference both in the field of computer science and the world around them. The award, created by the SCS Alumni Advisory Board, encourages SCS undergraduates to increase their engagement in research and community service, and to reach beyond their courses and grades. It shows the best and brightest SCS students that the community supports their tireless efforts to excel in all they do. And it’s appropriately named for former Assistant Dean for Undergraduate Education Mark Stehlik, who has been a tireless force for encouraging a generation of students to shine in computer science, extracurricular activities and life.
 
-### The Dean's Innovation Fund
+### Outreach Fund
 
-Sometimes the most exciting research ideas don't meet the criteria for government funding, or they exist outside the limits of current budget restrictions. The Dean's Innovation Fund supports these sorts of initiatives and does so with an agility not often possible with other forms of sponsored research.
-
-This fund also allows the dean to support efforts that improve the quality of life for SCS graduate and undergraduate students. For example, once upon a time a faculty member had a cool idea that received funding from the Dean's Innovation Fund. That cool idea turned into DuoLingo.
-
-[Choose This Fund](https://securelb.imodules.com/s/1410/giving/form.aspx?sid=1410&gid=1&pgid=382&cid=990&appealcode=A3875&dids=82)
+The world needs more computer scientists, and we’re doing our part to meet the demand. We’re working hard to make sure every child in America has the opportunity to study computer science, regardless of their school district. We hope some will come to CMU, but we’re more worried about opening doors for them no matter where they go to college. Gifts to the Outreach Fund empower our efforts to inspire and support kids everywhere.
 
 * * *
 
 # More ways to get involved
 
-The Engagement and Annual Giving Office offers numerous ways to become involved with SCS. Whether you're a recent grad excited to volunteer or an established professional interested in mentoring current students, we have an opportunity that fits your interests and means. Check out a few of the ways you can participate in SCS below.
-
-### Mentor Our students
-
-Our undergrads face countless challenges, and no one understands those challenges quite like our alums. Provide professional advice or support for the CMU journey by becoming a mentor.
-
-[https://cmu.firsthand.co/](https://cmu.firsthand.co/)
-
-### Stay in touch
-
-Drop us a line to let us know where you are and how we can contact you. Be sure to follow SCS on [Facebook](https://www.facebook.com/SCSatCMU/) and [Twitter](https://twitter.com/SCSatCMU), too.
+There are a myriad of other ways to philanthropically support the school. To inquire about other designations, multi-year gifts, and other options, please contact [Jenny Belardi](/directory/jennifer_belardi).
