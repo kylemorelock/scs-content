@@ -39,3 +39,4 @@ Corporate and Institutional Partnerships works with almost every other unit on c
  * [CMU Corporate & Institutional Partnerships](https://www.cmu.edu/corporate/)
  * [Career & Professional Development Center (CPDC)](https://www.cmu.edu/career/)
  * [Center for Technology Transfer and Enterprise Creation (CTTEC)](http://www.cmu.edu/cttec/)
+
