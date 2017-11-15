@@ -39,4 +39,4 @@ The world needs more computer scientists, and we’re doing our part to meet the
 
 # More ways to get involved
 
-There are a myriad of other ways to philanthropically support the school. To inquire about other designations, multi-year gifts, and other options, please contact [Jenny Belardi](/directory/jennifer_belardi).
+There are a myriad of other ways to philanthropically support the school. To inquire about other designations, multi-year gifts, and other options, please contact [Jenny Belardi](/directory/jennifer_belardi). 
